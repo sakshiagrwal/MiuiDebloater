@@ -10,9 +10,10 @@ print_modname() {
 }
 
 REPLACE="
-/data/app/GlobalFashiongallery
-/system/app/AiAsstVision
 /system/app/AnalyticsCore
+/system/app/AutoTest
+/system/app/BasicDreams
+/system/app/BluetoothMidiService
 /system/app/BookmarkProvider
 /system/app/BuiltInPrintService
 /system/app/Calculator
@@ -170,8 +171,6 @@ REPLACE="
 /system/priv-app/MIUIYellowPageGlobal
 /system/priv-app/dtag-appenabler
 /system/app/MIUIFileExplorerGlobal
-
-
 "
 
 on_install() {
