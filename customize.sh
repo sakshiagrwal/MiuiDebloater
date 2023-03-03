@@ -93,8 +93,6 @@ REPLACE="
 /system/priv-app/barrage
 /system/priv-app/BlockedNumberProvider
 /system/priv-app/BuiltInPrintService
-/system/priv-app/CalendarProvider
-/system/priv-app/CallLogBackup
 /system/priv-app/CellBroadcastLegacyApp
 /system/priv-app/CleanMaster
 /system/priv-app/CloudBackup
